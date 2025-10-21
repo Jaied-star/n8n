@@ -1,0 +1,12 @@
+{
+  "parameters": {
+    "operation": "raw",
+    "content": "SEU_XML_DO_MOODLE_AQUI",
+    "options": {}
+  },
+  "type": "n8n-nodes-base.function",
+  "typeVersion": 1,
+  "position": [540, -1280],
+  "id": "xml-input-node",
+  "name": "XML Input"
+}
